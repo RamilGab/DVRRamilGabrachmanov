@@ -5,6 +5,6 @@ Test job for RoadAR.
 
 ====================
 
-developer : Ramil Gabdrachmanov (ramil - wow @mail.ru)
+developer : Ramil Gabdrachmanov (ramil - wow @mail.ru);
 
 ====================
